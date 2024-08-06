@@ -1,8 +1,8 @@
-<p align="center">
+<div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=zig,react,sqlite&perline=8" />
   </a>
-</p>
+</div>
 
 # observatio
 _a research focused, note taking, markdown app_
